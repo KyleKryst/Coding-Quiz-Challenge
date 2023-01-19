@@ -28,12 +28,12 @@ One only has to click the "Start Quiz" button on the screen. The user is then pr
 **THEN** I can save my initials and score
 
 ## Screenshots of deployed webpage
-![Screenshot 1](assets/images/screenshot 1.png)
+![screenshot 1](https://user-images.githubusercontent.com/119367684/213337294-e3cd114d-2ed1-4e33-ab9a-676706b768f9.png)
 
-![Screenshot 2](assets/images/screenshot 2.png)
+![screenshot 2](https://user-images.githubusercontent.com/119367684/213337290-8ad624a2-2e4b-4ed6-a672-1e31f7dd8f62.png)
 
-![Screenshot 3](assets/images/screenshot 3.png)
+![screenshot 3](https://user-images.githubusercontent.com/119367684/213337292-2585a69d-80b6-46f3-b36a-59002d28fca7.png)
+
 
 ## Link to deployed webpage
 https://kylekryst.github.io/Coding-Quiz-Challenge/
-
